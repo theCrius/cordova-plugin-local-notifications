@@ -5,6 +5,8 @@
 Cordova Local-Notification Plugin
 =================================
 
+--> This fork is just to have a v 8.5.0 available for Ionic 3.9.x. Please refer to the original project for additional info.
+
 The essential purpose of local notifications is to enable an application to inform its users that it has something for them — for example, a message or an upcoming appointment — when the application isn’t running in the foreground.<br>
 They are scheduled by an application and delivered on the same device.
 
